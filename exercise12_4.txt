@@ -1,0 +1,46 @@
+janne@main:~/FullStackOpen_part12-containers-applications$ docker start -i nifty_dewdney
+root@8b56e4e87aec:/# apt-get -y install curl
+Reading package lists... Done
+ ... poistettu turhat välistä
+ ...
+Running hooks in /etc/ca-certificates/update.d...
+done.
+root@8b56e4e87aec:/#
+
+root@8b56e4e87aec:/# curl -sL https://deb.nodesource.com/setup_16.x | bash
+apt install -y nodejs
+
+================================================================================
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+================================================================================
+
+                           SCRIPT DEPRECATION WARNING
+
+
+  This script, located at https://deb.nodesource.com/setup_X, used to
+  install Node.js is deprecated now and will eventually be made inactive.
+
+  Please visit the NodeSource distributions Github and follow the
+  instructions to migrate your repo.
+  https://github.com/nodesource/distributions
+
+  The NodeSource Node.js Linux distributions GitHub repository contains
+  information about which versions of Node.js and which Linux distributions
+  are supported and how to install it.
+  https://github.com/nodesource/distributions
+
+
+                          SCRIPT DEPRECATION WARNING
+
+================================================================================
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+================================================================================
+
+TO AVOID THIS WAIT MIGRATE THE SCRIPT
+Continuing in 60 seconds (press Ctrl-C to abort) ...
+ ... poistettu turhat välistä
+ ...
+Setting up nodejs (16.20.2-deb-1nodesource1) ...
+root@8b56e4e87aec:/# node usr/src/app/index.js
+Hello World
+root@8b56e4e87aec:/#

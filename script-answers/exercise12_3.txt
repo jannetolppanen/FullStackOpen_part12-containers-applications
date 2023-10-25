@@ -1,0 +1,6 @@
+janne@main:~/FullStackOpen_part12-containers-applications/script-answers$ docker start -i nifty_dewdney
+root@8b56e4e87aec:/# nano usr/src/app/index.js
+root@8b56e4e87aec:/# cat usr/src/app/index.js
+console.log('Hello World')
+root@8b56e4e87aec:/# exit
+exit

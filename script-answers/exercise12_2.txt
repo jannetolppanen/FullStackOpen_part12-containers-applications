@@ -1,0 +1,26 @@
+Script started on 2023-10-25 13:28:07+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="108" LINES="28"]
+[?2004h]0;janne@main: ~[01;32mjanne@main[00m:[01;34m~[00m$ exitdocker rm youthful_allen [10Pps --allrun -it ubuntu bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Pgit --version[1Pversion[Kls -la[2Pdir ocker pscontainer run hello-world[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psudo docker ps[5P[C[C[C[C[C[C[C[C[Ccontainer -ls[Ksudo docker run -it ubuntu bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5@sudo [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdocker[Ksudo docker run -it ubuntu bash[1P[1P[1P[1P[1P
+[?2004l[?2004h]0;root@a66b1b37b86d: /root@a66b1b37b86d:/# cd usr/
+[?2004l[?2004h]0;root@a66b1b37b86d: /usrroot@a66b1b37b86d:/usr# cd src/
+[?2004l[?2004h]0;root@a66b1b37b86d: /usr/srcroot@a66b1b37b86d:/usr/src# cs   d app      dir   c dap    d a    mkdir app
+[?2004l[?2004h]0;root@a66b1b37b86d: /usr/srcroot@a66b1b37b86d:/usr/src# dir   touch index.js
+[?2004l[?2004h]0;root@a66b1b37b86d: /usr/srcroot@a66b1b37b86d:/usr/src# ls -la
+[?2004ltotal 16
+drwxr-xr-x 1 root root 4096 Oct 25 10:29 [0m[01;34m.[0m
+drwxr-xr-x 1 root root 4096 Oct  4 02:08 [01;34m..[0m
+drwxr-xr-x 2 root root 4096 Oct 25 10:28 [01;34mapp[0m
+-rw-r--r-- 1 root root    0 Oct 25 10:29 index.js
+[?2004h]0;root@a66b1b37b86d: /usr/srcroot@a66b1b37b86d:/usr/src# rm index.js 
+[?2004l[?2004h]0;root@a66b1b37b86d: /usr/srcroot@a66b1b37b86d:/usr/src# cd app/
+[?2004l[?2004h]0;root@a66b1b37b86d: /usr/src/approot@a66b1b37b86d:/usr/src/app# cd app/rm index.js [6Pls -latouch index.js
+[?2004l[?2004h]0;root@a66b1b37b86d: /usr/src/approot@a66b1b37b86d:/usr/src/app# ls -la
+[?2004ltotal 8
+drwxr-xr-x 2 root root 4096 Oct 25 10:29 [0m[01;34m.[0m
+drwxr-xr-x 1 root root 4096 Oct 25 10:29 [01;34m..[0m
+-rw-r--r-- 1 root root    0 Oct 25 10:29 index.js
+[?2004h]0;root@a66b1b37b86d: /usr/src/approot@a66b1b37b86d:/usr/src/app# exit
+[?2004lexit
+[?2004h]0;janne@main: ~[01;32mjanne@main[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2023-10-25 13:29:41+03:00 [COMMAND_EXIT_CODE="0"]
